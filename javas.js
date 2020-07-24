@@ -1,1 +1,1 @@
-alert("Web server using Docker by BILLCLINDON!!😄😄");
+alert("Web server using Docker by BILLCLINDON!!");
